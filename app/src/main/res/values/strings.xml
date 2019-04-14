@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Sugar Cosmetics</string>
+    <string name="price"><![CDATA[ <b>Price:</b>\n]]></string>
+    <string name="description"><![CDATA[ <b>Description</b>]]></string>
+    <string name="producturl">https://sugarcosmetics.s3.amazonaws.com/feeds/%s/%s.json</string>
+    <string name="lips">Lips</string>
+    <string name="face">Face</string>
+    <string name="eyes">Eyes</string>
+</resources>
